@@ -116,7 +116,8 @@ On the above image, the breakpoint have been hit and the program is being paused
 ### Mini Recap of What We Have So Far
 - Offset
 - No bad characters found (except `\x00` of course)
-- Overwritten `eip` with `jmp esp` address
+- Overwritten `eip` with `jmp esp` address   
+
 ### Payload Structure
 If you have followed this article through you should already have:   
 `payload="TRUN . " + "A"*2005 + EIP + "C"*(3000-2005-11)`   
