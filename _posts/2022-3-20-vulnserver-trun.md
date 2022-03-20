@@ -150,6 +150,7 @@ Voila! We popped a shell!
 In this article we have learn how to actually exploit vulnerable windows x86 program with simple buffer overflow. If you are new, I know this seems too much to understand at one go but trust me, you'll get it sooner or later. In the next article in this series, we will try to exploit a harder function from vulnserver. Stay tune!    
 
 ### Scripts and Exploit
+All final script can be found in this [repo](https://github.com/no0g/vulnserver-journey)
 -  Full Exploit
 	```python
 	#!/bin/python
