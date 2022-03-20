@@ -125,6 +125,7 @@ If you have followed this article through you should already have:
 - `"A"*2005` = Padding to overflow and reach EIP.   
 - `"C"*(3000-2005-11)` = Padding to make sure the program crash.   
 A working exploit will require us to replace the end padding to something that can be executed from stack. What can be executed by program from the stack? Right, Shellcodes!  
+
 ### Generating Shellcode with MSFVenom
 You can google this part yourself, we just need to generate a payload (reverse shell or bind shell).   
 - Payload
