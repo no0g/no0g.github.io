@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Certified Security Engineer. Security Analyst. Familiar with Linux, Offensive Security, Digital Forensics and Compliance. Craving for a great opportunity to explore more about IT security, audit, and compliance.
+Certified Security Engineer. Security Analyst. Aspiring Exploit Developer. Familiar with Linux, Offensive Security, Digital Forensics and Exploit Development. Craving for a great opportunity to explore more about Offesive Security Operations and Exploit Development.
 
 ## Experience
 
@@ -37,22 +37,22 @@ A hands-on program as SOC analyst. Was part of APU Cyber Security Undergraduate 
 
 ## Professional Certification
 
-### <span>eLearnSecurity Junior Penetration Tester, eLearnSecurity</span> <span>[7593150](https://verified.elearnsecurity.com/certificates/1dd79b09-a9d2-495f-8535-abe05d956157)</span>
+### <span>(eJPT) eLearnSecurity Junior Penetration Tester, eLearnSecurity</span> <span>[7593150](https://verified.elearnsecurity.com/certificates/1dd79b09-a9d2-495f-8535-abe05d956157)</span>
 
-### <span>Rocheston Certified Cybersecurity Engineer, Rocheston</span> <span>[a16effc2267a42722cebcee00a96ac78](http://no0g.github.io/assets/cert/RCCE.pdf)</span>
+### <span>(RCCE) Rocheston Certified Cybersecurity Engineer, Rocheston</span> <span>[a16effc2267a42722cebcee00a96ac78](http://no0g.github.io/assets/cert/RCCE.pdf)</span>
 
-### <span>Network Security Expert Level 3: Certified Associate, Fortinet</span> <span>[ohn1Y8lc73](http://no0g.github.io/assets/cert/NSE3.pdf)</span>
+### <span>(NSE 3) Network Security Expert Level 3: Certified Associate, Fortinet</span> <span>[ohn1Y8lc73](http://no0g.github.io/assets/cert/NSE3.pdf)</span>
 
 ## Education 
 
 ### <span>Asia Pacific University | Staffordshire University, BSc Cyber Security</span> <span>CGPA 3.7, First Class</span>
 
   - Final Year Project   
-   [APU H4CKVERSITY](https://no0g.github.io/2021/h4ckversity/), a gamified learning platform which allows students and lecturers to host vulnerable machine on the server. -- <b>GPA: 4.0</b>
+   [APU H4CKVERSITY](https://no0g.github.io/2021/07/08/h4ckversity), a gamified learning platform which allows students and lecturers to host vulnerable machine on the server. -- <b>GPA: 4.0</b>
 
   - Student Activity   
-  <span>Treasurer and Technical Team, APU Forensics and Security Research Center Student Section</span> <span>Jul 2020 -- May 2021</span>
-  <span>Vice President, APU Indonesian Student Society</span> <span>Dec 2019 -- Dec 2020</span>
+  <span>- Treasurer and Technical Team, APU Forensics and Security Research Center Student Section</span><br>
+  <span>- Vice President, APU Indonesian Student Society</span> 
 
 ## Skills
  
