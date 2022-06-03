@@ -11,13 +11,19 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Certified Security Engineer. Security Analyst. Aspiring Exploit Developer. Familiar with Linux, Offensive Security, Digital Forensics and Exploit Development. Craving for a great opportunity to explore more about Offesive Security Operations and Exploit Development.
+Senior Security Analyst with credentials covering both Blue and Red team operation. An analyst with a great understanding on both business processes and technical knowledge.   
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Security Analyst, Protergo</span> <span>Sep 2021 -- Present</span>
+### <span>L2 Security Analyst, Protergo</span> <span>Apr 2022 -- Present</span>
+
+ - Perform Deep Analysis with SIEM and other supporting tools (WireShark, SOCradar, VirusTotal)   
+ - Oversees up to 20+ clients SIEMs and T1 analysts   
+ - Maintaining up to 90% asset/network visibility by making sure SIEM is in good health    
+ - Making sure SIEM is up to date with the latest detection signature for IDS and vulnerability detection for Vulnerability Assesment   
+### <span>Security Analyst, Protergo</span> <span>Sep 2021 -- Apr 2022</span>
 
  - Perform security monitoring and reporting of clients' network
  - Utilized AlienVault USM SIEM technology
@@ -56,10 +62,10 @@ A hands-on program as SOC analyst. Was part of APU Cyber Security Undergraduate 
 
 ## Skills
  
- - Offensive Security: Network, Web and Android App Penetration Testing, Vulnerability Assesment, Basic Exploit Development
+ - Offensive Security: Network, and Web App Penetration Testing, Vulnerability Assesment, Basic Exploit Development
  - Digital Forensics: Malware Analysis, Reverse Engineering, and Data Recovery
  - Scripting & Programming: C, Python3, Bash, SQL, Javascript (NodeJS), PHP 
- - Utilities and Tools: OpenVPN, Virtualization (VMware, VirtualBox), Git, OpenVPN
+ - Utilities and Tools: OpenVPN, Virtualization (VMware, VirtualBox), Git
 
 ## Achievements
 
