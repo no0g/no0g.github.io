@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Senior Security Analyst with credentials covering both Blue and Red team operation. An analyst with a great understanding on both business processes and technical knowledge.   
+Senior Security Analyst with credentials covering both Blue and Red team operation. Analyst with a great understanding on both business processes and technical knowledge.   
 
 ## Experience
 
@@ -51,21 +51,15 @@ A hands-on program as SOC analyst. Was part of APU Cyber Security Undergraduate 
 
 ## Education 
 
-### <span>Asia Pacific University | Staffordshire University, BSc Cyber Security</span> <span>CGPA 3.7, First Class</span>
+### <span>Asia Pacific University | Staffordshire University, BSc (Hons) Cyber Security</span> <span>CGPA 3.7, First Class</span>
 
-  - Final Year Project   
-   [APU H4CKVERSITY](https://no0g.github.io/2021/07/08/h4ckversity), a gamified learning platform which allows students and lecturers to host vulnerable machine on the server. -- <b>GPA: 4.0</b>
-
-  - Student Activity   
-  <span>- Treasurer and Technical Team, APU Forensics and Security Research Center Student Section</span><br>
-  <span>- Vice President, APU Indonesian Student Society</span> 
+Final Year Project: [APU H4CKVERSITY](https://no0g.github.io/2021/07/08/h4ckversity), Hacking learning platform for universities -- <b>GPA 4,0</b>
 
 ## Skills
  
  - Offensive Security: Network, and Web App Penetration Testing, Vulnerability Assesment, Basic Exploit Development
  - Digital Forensics: Malware Analysis, Reverse Engineering, and Data Recovery
- - Scripting & Programming: C, Python3, Bash, SQL, Javascript (NodeJS), PHP 
- - Utilities and Tools: OpenVPN, Virtualization (VMware, VirtualBox), Git
+ - Scripting, Programming & Tools: C, Python3, Bash, SQL, Javascript (NodeJS), PHP, OpenVPN, Virtualization (VMware, VirtualBox), Git
 
 ## Achievements
 
