@@ -42,6 +42,8 @@ The app passed all the test i defined myself (lol) and proudly, i'd say that my 
 
 [VIC21 Innovation Insights, 65-70](https://vic21.uitmkelantan.com/wp-content/uploads/2021/11/INNOVATION-INSIGHTS-SERIES-2-2021.pdf#page=77) -->
 
+[Github Repo](https://github.com/no0g/h4ckversity)
+
 ## Some Screenshots
 - Landing Page
 ![landing](/assets/images/landing.png)
