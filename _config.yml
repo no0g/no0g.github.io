@@ -1,6 +1,6 @@
-site: jmp2rsp.tech
-title: jmp2rsp.tech
-greetings: jmp2rsp.tech 🐱‍💻 
+site: no0g.github.io
+title: Reza Nugroho
+greetings: Reza Nugroho 🐱‍💻 
 description: >-
   Hi, I'm Reza and this is my personal cyber space where I post stuff that I Like!
 lang: en-US
@@ -15,14 +15,14 @@ author:
   userpicture: 
   username: jmp2rsp # general username
   github: no0g # github username
-  twitter: jmp2rsp # twitter username
+  twitter: ejaklivesalone # twitter username
   email: rezaahmadnugroho@gmail.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://jmp2rsp.tech" # Domain Name of host. [username].github.io for github pages
+url: "https://no0g.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
