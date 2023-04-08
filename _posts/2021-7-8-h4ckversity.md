@@ -34,8 +34,7 @@ It was developed using NodeJS utilizing Express.js as web development framework.
 The app passed all the test i defined myself (lol) and proudly, i'd say that my lecturers are excited about the platform :)
 
 ## Published Article
-<iframe src="https://vic22.my/wp-content/uploads/2021/11/INNOVATION-INSIGHTS-SERIES-2-2021.pdf#page=77" width="700px" height="700px">
-</iframe>
+![Published Screenshot](https://user-images.githubusercontent.com/56182238/230714426-aa14aa07-a91a-413c-ac99-357484ae49fc.png)
 
 [VIC21 Innovation Insights, 65-70](https://vic22.my/wp-content/uploads/2021/11/INNOVATION-INSIGHTS-SERIES-2-2021.pdf#page=77) 
 
