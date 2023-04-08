@@ -35,9 +35,6 @@ The app passed all the test i defined myself (lol) and proudly, i'd say that my 
 
 ## Published Article
 <object data="https://vic22.my/wp-content/uploads/2021/11/INNOVATION-INSIGHTS-SERIES-2-2021.pdf#page=77" type="application/pdf" width="700px" height="700px">
-    <embed src="https://vic22.my/wp-content/uploads/2021/11/INNOVATION-INSIGHTS-SERIES-2-2021.pdf#page=77">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
 [VIC21 Innovation Insights, 65-70](https://vic22.my/wp-content/uploads/2021/11/INNOVATION-INSIGHTS-SERIES-2-2021.pdf#page=77) 
