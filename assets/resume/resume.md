@@ -11,21 +11,28 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-SOC Lead and Security Analyst with certifications for both Blue Teaming and Red Teaming. Experienced with SIEM, Security Operations, Penetration Testing engagement, Incident Handling, Security Policy and IT security in general.
+Experienced cybersecurity leader with achievements as SOC Lead and Head of Presales, R&D. Strengthened digital security through vigilant operations, driving innovation, and client-focused solutions. Led cross-functional teams, optimized processes, and converted complex concepts into actionable strategies for defense and revenue growth.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>L2 Security Analyst/SOC Team Lead, Protergo</span> <span>Apr 2022 -- Present</span>
+### <span>Head of Presales, Research, Development, and Deployment, Protergo</span> <span>Aug 2023 -- Present</span>
 
+ - Led a high-performing team of researchers and developers to deliver innovative products and solutions.  
+ - Oversaw market research efforts to identify emerging trends and technologies, guiding R&D initiatives and ensuring competitive advantage.
+ - Played a pivotal role in client presentations, product demonstrations, and negotiations.
+
+### <span>Security Operation Manager, Protergo</span> <span>Apr 2022 -- Jul 2023</span>
+
+ - Managing Resources Maintain SOC Analyst KPI based on SLA
+ - Plan and Develop SOC-related products and processes'
  - Perform Deep Analysis with SIEM and other supporting tools (WireShark, SOCradar, VirusTotal)   
  - Oversees up to 20+ clients SIEMs and T1 analysts   
  - Maintaining up to 90% asset/network visibility by making sure SIEM is in good health    
  - Making sure SIEM is up to date with the latest detection signature for IDS and vulnerability detection for Vulnerability Assesment   
  - Provide support, technical problem solving and analysis for Enterprise XDR and Firewall solution
- - Managing Resources Maintain SOC Analyst KPI based on SLA
- - Plan and Develop SOC-related products and processes
+
 
 ### <span>Security Analyst, Protergo</span> <span>Sep 2021 -- Apr 2022</span>
 
@@ -33,12 +40,6 @@ hand -->
  - Utilized AlienVault USM SIEM technology
  - Deliver possible solutions and mitigations against existing threats to client
 
-### <span>SOC Tier 1 Analyst, Asia Pacific University</span> <span>Mar 2020 -- Jul 2020</span>
-
-A hands-on program as SOC analyst. Was part of APU Cyber Security Undergraduate program.
-
- - Perform security monitoring and reporting of APU network
- - Utilized MSSGARD as NextGen SIEM
 
 ## Professional Certification
 
@@ -56,7 +57,6 @@ Final Year Project: [APU H4CKVERSITY](https://vic22.my/wp-content/uploads/2021/1
  
  - Offensive Security: Network, and Web App Penetration Testing, Vulnerability Assesment, Basic Exploit Development
  - Digital Forensics: Malware Analysis, Reverse Engineering, and Data Recovery
- - Cybersecurity Consulting: Analysis on Cybersecurity Control implementation and Cybersecurity Gaps based on Existing Infrastructure
  - Security Operations: SIEM, Threat Intelligence and Hunting, Detection Engineering, SOC Resource Management, Incident Handling and Response
  - Scripting, Programming & Tools: C, Python3, Bash, SQL, Javascript (NodeJS), PHP, OpenVPN, Virtualization (VMware, VirtualBox), Git
 
