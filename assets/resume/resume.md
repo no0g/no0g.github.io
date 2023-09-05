@@ -3,21 +3,21 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <rezaahmadnugroho@gmail.com>
+- <root@ejak.me>
 - (+62) 822 2984 3105
-- [no0g.github.io](https://no0g.github.io)
-- South Jakarta, Indonesia
+- [ejak.me](https://ejak.me)
+- Central Jakarta, Indonesia
 - Indonesian
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Experienced cybersecurity leader with achievements as SOC Lead and Head of Presales, R&D. Strengthened digital security through vigilant operations, driving innovation, and client-focused solutions. Led cross-functional teams, optimized processes, and converted complex concepts into actionable strategies for defense and revenue growth.
+Experienced cybersecurity leader with achievements as SOC Manager and Head of Presales, R&D. Strengthened digital security through vigilant operations, driving innovation, and client-focused solutions. Led cross-functional teams, optimized processes, and converted complex concepts into actionable strategies for defense and revenue growth.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Head of Presales, Research, Development, and Deployment, Protergo</span> <span>Aug 2023 -- Present</span>
+### <span>Head of Presales, Research, Development, and Deployment, Protergo</span> <span>Aug 2023 -- Sep 2023</span>
 
  - Led a high-performing team of researchers and developers to deliver innovative products and solutions.  
  - Oversaw market research efforts to identify emerging trends and technologies, guiding R&D initiatives and ensuring competitive advantage.
@@ -51,7 +51,7 @@ hand -->
 
 ### <span>Asia Pacific University | Staffordshire University, BSc (Hons) Cyber Security</span> <span>CGPA 3.7, First Class</span>
 
-Final Year Project: [APU H4CKVERSITY](https://vic22.my/wp-content/uploads/2021/11/INNOVATION-INSIGHTS-SERIES-2-2021.pdf#page=77), Hacking learning platform for universities -- <b>GPA 4,0</b>
+Final Year Project: [APU H4CKVERSITY](https://www.researchgate.net/publication/355983501_Innovation_Insights_Series_2), Hacking learning platform for universities -- <b>GPA 4,0</b>
 
 ## Skills
  
