@@ -17,7 +17,14 @@ Experienced cybersecurity leader with achievements as SOC Manager and Head of Pr
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Head of Presales, Research, Development, and Deployment, Protergo</span> <span>Aug 2023 -- Sep 2023</span>
+
+### <span>Software Engineer, Blocktogo</span> <span>Sep 2023 -- Present </span>
+
+ - Goverment use case app development based on Blockchain utilizing General-Purpose Blockchain such as Polygon & Symbol
+ - Maintain and troublehsoot issues occuring in Private Blockchain and use cases 
+ - Perform security testing and QA for developed use cases 
+
+### <span>Head of Product Research & Development, Protergo</span> <span>Aug 2023 -- Present </span>
 
  - Led a high-performing team of researchers and developers to deliver innovative products and solutions.  
  - Oversaw market research efforts to identify emerging trends and technologies, guiding R&D initiatives and ensuring competitive advantage.
@@ -56,15 +63,12 @@ Final Year Project: [APU H4CKVERSITY](https://www.researchgate.net/publication/3
 ## Skills
  
  - Offensive Security: Network, and Web App Penetration Testing, Vulnerability Assesment, Basic Exploit Development
- - Digital Forensics: Malware Analysis, Reverse Engineering, and Data Recovery
  - Security Operations: SIEM, Threat Intelligence and Hunting, Detection Engineering, SOC Resource Management, Incident Handling and Response
  - Scripting, Programming & Tools: C, Python3, Bash, SQL, Javascript (NodeJS), PHP, OpenVPN, Virtualization (VMware, VirtualBox), Git
 
-## Achievements
+## Publication 
 
-### <span>Gold Medalist and Best Video Award Virtual Innovation Competition 2021, UiTM Kelantan, Malaysia </span> <span>2021</span>
-### <span>First Place APU Internal CTF 2021, APU Forensics and Security Research Center Student Section, Malaysia </span> <span>2021</span>
-### <span>Runner-up Regional Cyber Challenge 2019, Cyber8Labs and Silensec, Australia </span> <span>2019</span>
+### <span> [APU H4CKVERSITY](https://www.researchgate.net/publication/355983501_Innovation_Insights_Series_2) Gold Medalist Virtual Innovation Insight 2021, UiTM Kelantan, Malaysia </span> <span>2021</span>
 
 
 
