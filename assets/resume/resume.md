@@ -4,27 +4,34 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <root@ejak.me>
-- (+62) 822 2984 3105
+- (+62) 852 1318 6428
 - [ejak.me](https://ejak.me)
 - Central Jakarta, Indonesia
 - Indonesian
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Experienced cybersecurity leader with achievements as SOC Manager and Head of Presales, R&D. Strengthened digital security through vigilant operations, driving innovation, and client-focused solutions. Led cross-functional teams, optimized processes, and converted complex concepts into actionable strategies for defense and revenue growth.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>Software Engineer, Blocktogo</span> <span>Sep 2023 -- Present </span>
+### <span>Director, Nexagate</span> <span>June 2024 -- Present</span>
+
+ - Directed strategic planning and execution to position Nexagate as a leading provider of fully integrated cybersecurity services in the region.
+ - Oversaw the delivery of end-to-end cybersecurity solutions, including compliance, managed security services, and incident response.
+ - Built and led high-performing teams, ensuring seamless collaboration across technical, sales, and operations functions.
+ - Championed the adoption of cutting-edge technologies to enhance Nexagate’s service offerings and meet the demands of Indonesia’s digital transformation.
+ - Implemented operational frameworks aligned with global standards, such as ISO 27001 and SOC 2, ensuring exceptional service quality and trust.
+
+### <span>Software Engineer, Blocktogo</span> <span>Sep 2023 -- June 2024</span>
 
  - Goverment use case app development based on Blockchain utilizing General-Purpose Blockchain such as Polygon & Symbol
  - Maintain and troublehsoot issues occuring in Private Blockchain and use cases 
  - Perform security testing and QA for developed use cases 
 
-### <span>Head of Product Research & Development, Protergo</span> <span>Aug 2023 -- Present </span>
+### <span>Head of Product Research & Development, Protergo</span> <span>Aug 2023 -- May 2024 </span>
 
  - Led a high-performing team of researchers and developers to deliver innovative products and solutions.  
  - Oversaw market research efforts to identify emerging trends and technologies, guiding R&D initiatives and ensuring competitive advantage.
@@ -52,19 +59,11 @@ hand -->
 
 ### <span>(eJPT) eLearnSecurity Junior Penetration Tester, eLearnSecurity</span> <span>[7593150](https://verified.elearnsecurity.com/certificates/1dd79b09-a9d2-495f-8535-abe05d956157)</span>
 
-### <span>(NSE 3) Network Security Expert Level 3: Certified Associate, Fortinet</span> <span>[ohn1Y8lc73](http://no0g.github.io/assets/cert/NSE3.pdf)</span>
-
 ## Education 
 
 ### <span>Asia Pacific University | Staffordshire University, BSc (Hons) Cyber Security</span> <span>CGPA 3.7, First Class</span>
 
 Final Year Project: [APU H4CKVERSITY](https://www.researchgate.net/publication/355983501_Innovation_Insights_Series_2), Hacking learning platform for universities -- <b>GPA 4,0</b>
-
-## Skills
- 
- - Offensive Security: Network, and Web App Penetration Testing, Vulnerability Assesment, Basic Exploit Development
- - Security Operations: SIEM, Threat Intelligence and Hunting, Detection Engineering, SOC Resource Management, Incident Handling and Response
- - Scripting, Programming & Tools: C, Python3, Bash, SQL, Javascript (NodeJS), PHP, OpenVPN, Virtualization (VMware, VirtualBox), Git
 
 ## Publication 
 

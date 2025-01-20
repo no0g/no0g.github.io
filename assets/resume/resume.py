@@ -15,7 +15,6 @@ preamble = """\
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>{title}</title>
 <style>
 {css}
 </style>
@@ -23,6 +22,7 @@ preamble = """\
 <body>
 <div id="resume">
 """
+# <title>{title}</title>
 
 postamble = """\
 </div>
@@ -140,6 +140,7 @@ def write_pdf(html: str, prefix: str = "resume", chrome: str = "") -> None:
             [
                 chrome,
                 *options,
+                f"--no-pdf-header-footer",
                 f"--print-to-pdf={prefix}.pdf",
                 "data:text/html;base64," + html64.decode("utf-8"),
             ],
